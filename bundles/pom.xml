@@ -17,7 +17,7 @@
   <properties>
     <tycho-version>1.0.0</tycho-version>
     <tycho-extras-version>1.0.0</tycho-extras-version>
-    <junit-version>4.11</junit-version>
+    <junit-version>4.13.1</junit-version>
     <xtextVersion>2.16.0</xtextVersion>
     <xcoreVersion>1.7.0</xcoreVersion>
     <xcoreLibVersion>1.1.100</xcoreLibVersion>
